@@ -9,7 +9,7 @@ Aquí están los pasos generales para crear el proyecto:
 1. Configuración inicial:
    - Instala Python en tu sistema si no lo tienes instalado.
    - Instala Django usando el administrador de paquetes pip.
-   - Crea un nuevo proyecto Django usando el comando `django-admin startproject nombre_proyecto`.
+   - Crea un nuevo proyecto Django usando el comando `django-admin startproject project`.
 
 2. Define el modelo:
    - Abre el archivo `models.py` en la carpeta del proyecto y define tus clases de modelo.
@@ -35,4 +35,4 @@ Aquí están los pasos generales para crear el proyecto:
    - Abre una terminal, navega hasta la carpeta del proyecto y ejecuta el comando `python manage.py runserver`.
    - Accede al servidor de desarrollo en tu navegador para probar y verificar las funcionalidades.
 
-Recuerda que esta es una guía general y necesitarás personalizarla según tus necesidades específicas. Puedes encontrar recursos en línea, tutoriales y documentación adicional para ayudarte a desarrollar tu proyecto Django.
+Recuerda que esta es una guía general y necesitarás personalizarla según tus necesidades específicas.
