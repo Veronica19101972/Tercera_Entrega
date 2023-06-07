@@ -36,3 +36,4 @@ Aquí están los pasos generales para crear el proyecto:
    - Accede al servidor de desarrollo en tu navegador para probar y verificar las funcionalidades.
 
 Recuerda que esta es una guía general y necesitarás personalizarla según tus necesidades específicas.
+
